@@ -3,7 +3,7 @@
 # mcBackupper - BETA
 # Author: mcaldi - info@marcocaldirola.it
 # Version: 0.0.1-Beta
-# License: mcBackupper
+# License: GPL-3.0 license 
 
 pushd ./
 
