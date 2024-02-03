@@ -1,5 +1,5 @@
 # mcBackupper
-Personal Local Backupper - still in BETA, to be used at your own risk
+Personal Local Backupper - still in BETA, to be used at your own risk \
 Bash script to backup your personal file or directory
 ## How to use
 1) Popolate config file. Each Row is an folder/file to backup:
